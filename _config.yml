@@ -1,0 +1,12 @@
+# Site settings
+title: jalyna.github.io
+email: jalyna.schroeder@gmail.com
+description: ""
+baseurl: ""
+url: "http://jalyna.github.io"
+twitter_username: jalynas
+github_username:  jalyna
+
+# Build settings
+markdown: kramdown
+permalink: pretty
