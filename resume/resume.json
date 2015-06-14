@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Jalyna Schröder",
+    "label": "Software Engineer",
+    "picture": "images/jalyna.jpeg",
+    "email": "jalyna.schroeder@gmail.com",
+    "website": "http://jalyna.github.io",
+    "summary": "A passionate software engineer with a can-do attitude. Experienced with large scaled web applications. Learns new technologies and agile methods in her spare time.",
+    "location": {
+      "city": "Berlin",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jalynas",
+        "url": "https://twitter.com/jalynas"
+      },
+      {
+        "network": "Github",
+        "username": "jalyna",
+        "url": "https://github.com/jalyna"
+      },
+      {
+        "network": "Exercism.io",
+        "username": "jalyna",
+        "url": "https://exercism.io/jalyna"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DaWanda GmbH",
+      "position": "Fullstack Software Engineer",
+      "website": "http://dawanda.com",
+      "startDate": "2013-09-01",
+      "summary": "DaWanda is an online marketplace for handmade products and supplies that is mostly developed in Ruby in a Scrum enviroment. DaWanda serves hundreds of million page impressions per month.",
+      "highlights": [
+        "Working with Ruby on Rails and Sinatra and developing RESTful APIs",
+        "Frontend Development in a MV* Framework and SMACSS architecture",
+        "Improving tooling and introducing peer reviews"
+      ]
+    },
+    {
+      "company": "Innobox GmbH",
+      "position": "Work Student",
+      "website": "http://innobox.de",
+      "startDate": "2012-03-01",
+      "endDate": "2013-08-30",
+      "summary": "Innobox is a web agency in the area of online shops mostly built with Groovy and Grails,"
+    },
+    {
+      "company": "University of Bremen",
+      "position": "Tutorin für Praktische Informatik I",
+      "website": "http://www.uni-bremen.de/",
+      "startDate": "2010-10-01",
+      "endDate": "2011-03-30"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Rails Girls Berlin",
+      "position": "Coach",
+      "website": "http://railsgirlsberlin.de/",
+      "startDate": "2013-12-01",
+      "summary": "RailsGirls is an organization that offers programming workshops for women."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Bremen",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2009-09-01",
+      "endDate": "2013-08-30",
+      "gpa": "1.5"
+    },
+    {
+      "institution": "Gymnasium an der Kurt-Schuhmacher-Allee",
+      "area": "Mathematics and education science",
+      "studyType": "Abitur",
+      "startDate": "2006-08-01",
+      "endDate": "2009-06-01",
+      "gpa": "1.9"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Ruby",
+        "Javascript/CoffeScript",
+        "Java",
+        "GIT",
+        "SQL",
+        "(Haskell)"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "keywords": [
+        "HTML",
+        "(S)CSS",
+        "Ruby on Rails",
+        "Sinatra",
+        "React",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Practices",
+      "keywords": [
+        "Scrum",
+        "Test Driven Development",
+        "Pair Programming"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Language proficient"
+    }
+  ]
+}
