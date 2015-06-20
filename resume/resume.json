@@ -125,5 +125,11 @@
       "language": "English",
       "fluency": "Language proficient"
     }
+  ],
+  "references": [
+    {
+      "name": "Tobias Pfeiffer",
+      "reference": "Jalyna is extremely driven and innovative - she has lots of ideas for businesses as well as for improving existing businesses. Moreover she is very communicative and wants to create something. She is a great full stack developer - whether it is creating an awesome front end or doing serious work in the backend she can do it. But she still knows that the human element in development is the most important."
+    }
   ]
 }
