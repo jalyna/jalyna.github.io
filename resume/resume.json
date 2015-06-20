@@ -37,7 +37,7 @@
       "summary": "DaWanda is an online marketplace for handmade products and supplies that is mostly developed in Ruby in a Scrum enviroment. DaWanda serves hundreds of million page impressions per month.",
       "highlights": [
         "Working with Ruby on Rails and Sinatra and developing RESTful APIs",
-        "Frontend Development in a MV* Framework and SMACSS architecture",
+        "Frontend Development with Javascript in a MV* Framework and SMACSS architecture",
         "Improving tooling and introducing peer reviews"
       ]
     },
@@ -47,7 +47,7 @@
       "website": "http://innobox.de",
       "startDate": "2012-03-01",
       "endDate": "2013-08-30",
-      "summary": "Innobox is a web agency in the area of online shops mostly built with Groovy and Grails,"
+      "summary": "Innobox is a web agency in the area of online shops mostly built with Groovy and Grails."
     },
     {
       "company": "University of Bremen",
@@ -128,7 +128,7 @@
   ],
   "references": [
     {
-      "name": "Tobias Pfeiffer",
+      "name": "Tobias Pfeiffer, Software Engineer",
       "reference": "Jalyna is extremely driven and innovative - she has lots of ideas for businesses as well as for improving existing businesses. Moreover she is very communicative and wants to create something. She is a great full stack developer - whether it is creating an awesome front end or doing serious work in the backend she can do it. But she still knows that the human element in development is the most important."
     }
   ]
