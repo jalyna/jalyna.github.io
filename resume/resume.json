@@ -34,7 +34,7 @@
       "position": "Full Stack Software Engineer",
       "website": "http://dawanda.com",
       "startDate": "2013-09-01",
-      "summary": "DaWanda is an online marketplace for handmade products and supplies that is mostly developed in Ruby in a Scrum enviroment. DaWanda serves hundreds of million page impressions per month.",
+      "summary": "DaWanda is an online marketplace for handmade products and supplies that is mostly developed in Ruby in a Scrum enviroment. DaWanda serves hundreds of millions of page impressions per month.",
       "highlights": [
         "Working with Ruby on Rails and Sinatra and developing RESTful APIs",
         "Frontend Development with Javascript in a MV* Framework and SMACSS architecture",
@@ -91,7 +91,7 @@
         "Ruby",
         "Javascript/CoffeScript",
         "Java",
-        "GIT",
+        "Git",
         "SQL",
         "(Haskell)"
       ]
