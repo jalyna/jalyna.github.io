@@ -5,7 +5,7 @@
     "picture": "images/jalyna.jpeg",
     "email": "jalyna.schroeder@gmail.com",
     "website": "http://jalyna.github.io",
-    "summary": "A passionate software engineer with a can-do attitude. Experienced with large scaled web applications. Learns new technologies and agile methods in her spare time.",
+    "summary": "A passionate software engineer with a can-do attitude. Experienced with large scaled web applications. Learns new technologies and agile methods in her spare time and is interested in leadership.",
     "location": {
       "city": "Berlin",
       "countryCode": "DE"
@@ -34,6 +34,7 @@
       "position": "Full Stack Software Engineer",
       "website": "http://dawanda.com",
       "startDate": "2013-09-01",
+      "endDate": "2016-01-31",
       "summary": "DaWanda is an online marketplace for handmade products and supplies that is mostly developed in Ruby in a Scrum enviroment. DaWanda serves hundreds of millions of page impressions per month.",
       "highlights": [
         "Working with Ruby on Rails and Sinatra and developing RESTful APIs",
@@ -93,7 +94,8 @@
         "Java",
         "Git",
         "SQL",
-        "(Haskell)"
+        "(Haskell)",
+        "(Crystal)"
       ]
     },
     {
@@ -128,8 +130,12 @@
   ],
   "references": [
     {
-      "name": "Luca Ongaro, Lead Software Engineer",
+      "name": "Luca Ongaro, Lead Software Engineer at DaWanda",
       "reference": "I worked with Jalyna at DaWanda GmbH for roughly two years, first as her team lead, and then as a peer in the Core Development Team. She is without doubts one of the most skilled and motivated engineers I know and, despite the young age, very experienced. She puts a lot of importance on code quality, testing and maintainability, and she has the best engineering and problem-solving attitude. I can safely say that Jalyna's work was necessary for the success of several of the most important technical projects that we tackled. As a result, she quickly became part of our Core Development Team, influencing any important technical decision. She'a great team player and I always appreciate her honest attitude and feedback. She's also very organized, and knowledgeable about agile development processes. I absolutely endorse her as a software engineer."
+    },
+    {
+      "name": "Luca Tironi, Full Stack Lead Developer at DaWanda",
+      "reference": "Jalyna is one of the most capable and passionate person that I have ever met in my profession. She drove several technological changes in our constellation of applications that improved business goals, customer satisfaction, code quality and developer happiness. She demonstrated robust technical skills in the whole spectrum from client-side javascript to backend and business logic design. She is a skilled software engineer with a focus on finding elegant, maintainable and practical solution to problems. She is an exceptional team leader and tutor, helping and inspiring others to improve their own skills and challenging the team to pursue and achieve the highest standards of quality."
     },
     {
       "name": "Tobias Pfeiffer, Software Engineer",
