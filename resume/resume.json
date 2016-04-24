@@ -30,6 +30,17 @@
   },
   "work": [
     {
+      "company": "Descape GmbH",
+      "position": "Full Stack Software Engineer",
+      "website": "http://descape.com",
+      "startDate": "2016-03-15",
+      "summary": "Descape is a marketplace for sustainable travel experiences outside of the office.",
+      "highlights": [
+        "Taking over an existing Ruby on Rails application as the first developer in the company",
+        "Monitoring and keeping the application running"
+      ]
+    },
+    {
       "company": "DaWanda GmbH",
       "position": "Full Stack Software Engineer",
       "website": "http://dawanda.com",
