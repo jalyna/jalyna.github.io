@@ -30,10 +30,22 @@
   },
   "work": [
     {
+      "company": "study clever GmbH",
+      "position": "CTO",
+      "website": "https://studentensteuererklaerung.de",
+      "startDate": "2016-05-15",
+      "summary": "Studentensteuererklärung is an online application that enables students to create a tax declaration in a few steps.",
+      "highlights": [
+        "Developing a Ruby on Rails 5 application",
+        "Creating an integration with the german tax office"
+      ]
+    },
+    {
       "company": "Descape GmbH",
       "position": "Full Stack Software Engineer",
-      "website": "http://descape.com",
+      "website": "https://descape.com",
       "startDate": "2016-03-15",
+      "endDate": "2016-05-14",
       "summary": "Descape is a marketplace for sustainable travel experiences outside of the office.",
       "highlights": [
         "Taking over an existing Ruby on Rails application as the first developer in the company",
@@ -124,6 +136,7 @@
       "name": "Practices",
       "keywords": [
         "Scrum",
+        "AB Testing",
         "Test Driven Development",
         "Pair Programming"
       ]
